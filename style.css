@@ -1,0 +1,59 @@
+
+
+.error {
+    color: red;
+}
+
+num {
+    background-color: white;
+    border: black 1px solid;
+    width: 30px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+yel {
+    background-color: yellow;
+    font-weight: 700;
+    border: black 1px solid;
+    width: 30px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+#output {
+
+    position: relative;
+    display: inline-block;
+}
+
+top {
+    background-color: yellow;
+    font-weight: 700;
+    width: 32px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+
+#topbox {
+    margin-left: 36px;
+}
+
+left {
+    background-color: yellow;
+    font-weight: 700;
+    width: 32px;
+    height: 20px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+
+#leftbox {
+    display: inline-block;
+}
